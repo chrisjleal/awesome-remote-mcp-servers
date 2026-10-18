@@ -3410,7 +3410,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [Proofable](https://proofable.me) `https://mcp.proofable.me/mcp`
   [![Proofable MCP connector](https://glama.ai/mcp/connectors/io.github.proofable/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.proofable/mcp)
-  🔐 - Agent identity, scoped access, and proof across tools. Check authority before an agent acts.
+  🔓 - Agent identity, scoped access, and proof across tools. Check authority before an agent acts.
 - [ProofCore](https://proofcore.org) `https://mcp.proofcore.org`
   [![ProofCore Notary MCP connector](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary/badges/score.svg)](https://glama.ai/mcp/connectors/org.proofcore.mcp/proof-core-notary)
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
